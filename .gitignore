@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+
+# Node modules & build
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Data & Models
+*.db
+*.sqlite3
+data/*.jpg
+data/*.png
+
+# IDE & OS
+.DS_Store
+.vscode/
+.idea/
+.env
+*.env
