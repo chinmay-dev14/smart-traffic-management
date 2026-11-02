@@ -160,8 +160,9 @@ smart-traffic-management/
 * Node.js v18+ and npm
 * Git
 
-### Step 1: Clone or Navigate to Project
+### Step 1: Clone the Repository
 ```bash
+git clone https://github.com/chinmay-dev14/smart-traffic-management.git
 cd smart-traffic-management
 ```
 
